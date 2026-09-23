@@ -1,4 +1,4 @@
-# Zentrix lab project
+# Microservice game API
 
 This project is a modular API system for a game-like environment, split into distinct microservices:
 - **Account Service**: Handles user registration and authentication
